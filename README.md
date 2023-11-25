@@ -1,2 +1,2 @@
 # memohn
-Desarrollador de aplicaciones mobiles y páginas web
+Desarrollador de aplicaciones moviles y páginas web
